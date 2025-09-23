@@ -1,9 +1,10 @@
 # S.I.R.L.I
 <p align="center">
-  <img src="path/para/sua/logo-400x400.png" alt="Logo SIRLI" width="200"/>
+  <img width="400" height="400" alt="S I R L I" src="https://github.com/user-attachments/assets/06c664f6-7763-4284-850a-5754d5923355" />
 </p>
 
 <h1 align="center">SIRLI - Sistema de Reconhecimento de Libras</h1>
+
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="Status"/></a>
