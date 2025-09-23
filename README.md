@@ -41,9 +41,3 @@ Ele promove **inclusão e acessibilidade**, permitindo comunicação entre pesso
 
 ---
 
-## ⚙️ Instalação
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/SIRLI.git
-cd SIRLI
