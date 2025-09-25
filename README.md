@@ -5,11 +5,20 @@
 
 <h1 align="center">SIRLI - Sistema de Reconhecimento de Libras</h1>
 
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="Status"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Licença-MIT-green" alt="License"/></a>
+</p>
+
+---
+
+## ⚠️ EM BREVE ⚠️
+<p align="center">
+  <span style="font-size: 32px;">🚧 EM DESENVOLVIMENTO! 🚧</span>
+</p>
+<p align="center">
+  Estou trabalhando ativamente neste projeto. Novidades e funcionalidades serão adicionadas em breve! Fique ligado! ⚡👀
 </p>
 
 ---
@@ -41,4 +50,3 @@ Ele promove **inclusão e acessibilidade**, permitindo comunicação entre pesso
 - **NumPy**
 
 ---
-
